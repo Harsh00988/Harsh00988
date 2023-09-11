@@ -1,4 +1,4 @@
-[![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=Gd1K7eRi&id=3A0EE35ACF67E2D68E818B944C1C5A46774B70F7&thid=OIP.Gd1K7eRi_tE6eaO4a99QRwHaBw&mediaurl=https%3a%2f%2fmir-s3-cdn-cf.behance.net%2fproject_modules%2f1400%2f6c0f9b95746151.5e9ecde69599e.gif&exph=331&expw=1400&q=banner+gif+for+github&simid=607988518667121705&FORM=IRPRST&ck=662514A72F7CD845D2BCD372E66169C1&selectedIndex=2&ajaxhist=0&ajaxserp=0)]
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)]
 <h1 align="center">Hi 👋, I'm Harsh Goyal</h1>
 <h3 align="center">A passionate ML/DL developer and familiar with Python Programming Language</h3>
 <img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=uGIdIh7U&id=C372BE93E90FCC6749E8F7326266AF8ECF6C5CFD&thid=OIP.uGIdIh7Um_O_Cry35-_uhwHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1019864%2fscreenshots%2f3079099%2fcodeloop.gif&exph=600&expw=800&q=animated+coding+gif&simid=608020121049713142&FORM=IRPRST&ck=4EF19D2214CEC58B8920F1B5FC19690A&selectedIndex=3&ajaxhist=0&ajaxserp=0">
