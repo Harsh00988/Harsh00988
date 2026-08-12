@@ -127,6 +127,17 @@ Obstacle detection algorithm and a real-time control & monitoring UI built durin
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Fast GDAL — Rust-Accelerated Geoprocessing
+Rewriting hot-path GDAL raster/vector operations in **Rust** to cut processing time on large satellite imagery workloads — exploring zero-copy I/O and parallelism to push past Python/GDAL bindings' overhead for production geospatial pipelines.
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 <br/>
@@ -195,11 +206,13 @@ Obstacle detection algorithm and a real-time control & monitoring UI built durin
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harsh00988&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh00988&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harsh00988&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh00988&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="30%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh00988&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=harsh00988&theme=tokyonight&hide_border=true" width="70%"/>
 </div>
+
+<sub>If a card above shows a blank/broken image, GitHub is usually just throttling the shared Vercel instance — refresh the page in a minute, or see the note at the bottom of this file for a self-hosted fix.</sub>
 
 <br/>
 
