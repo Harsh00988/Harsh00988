@@ -207,32 +207,11 @@ Rewriting hot-path GDAL raster/vector operations in **Rust** to cut processing t
 ## GitHub Stats
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=harsh00988&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh00988&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
+
 <img src="https://streak-stats.demolab.com/?user=harsh00988&theme=tokyonight&hide_border=true" width="70%"/>
 </div>
-
-> **Note on the stats cards:** the shared public instance of `github-readme-stats.vercel.app` (the one that powers the icon-stats and top-languages cards) has been going down intermittently since late 2025 due to rate limiting — this is a known, widely-reported issue, not something wrong with this README. The maintainers now recommend self-hosting instead of relying on the shared instance. The streak card above uses a different, more stable service (`streak-stats.demolab.com`) so it renders reliably.
->
-> To get the icon-stats and top-languages cards back reliably, the cleanest fix is to generate them once via a GitHub Action and commit them as static SVGs to this repo (no live external dependency, so nothing can go down):
->
-> 1. In this profile repo, create `.github/workflows/stats.yml` with:
-> ```yaml
-> name: Generate GitHub Stats SVGs
-> on:
->   schedule:
->     - cron: '0 0 * * *'
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: jstrieb/github-stats@master
->         with:
->           github_token: ${{ secrets.GITHUB_TOKEN }}
-> ```
-> 2. Run the workflow once (Actions tab → Run workflow) — it commits `generated/overview.svg` and `generated/languages.svg` to your repo.
-> 3. Replace the stats `<img>` tags above with `generated/overview.svg` and `generated/languages.svg` (relative paths, since they now live in your own repo).
->
-> This trades "always fresh" for "always working," which is the better trade for a profile page people are actually going to visit.
 
 <br/>
 
