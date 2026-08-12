@@ -1,32 +1,217 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)
-<h1 align="center">Hi 👋, I'm Harsh Goyal</h1>
-<h3 align="center">A passionate ML/DL developer and familiar with Python Programming Language</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh00988&label=Profile%20views&color=0e75b6&style=flat" alt="harsh00988" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Harsh%20Goyal&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20Computer%20Vision%20%7C%20Geospatial%20AI&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-- 🔭 I’m currently working on [Fake-Review-Detection](https://github.com/Harsh00988/fake-review-detection)
+<a href="https://linkedin.com/in/harsh-goyal-b39405228"><img src="https://img.shields.io/badge/LinkedIn-Harsh%20Goyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Harsh00988"><img src="https://img.shields.io/badge/GitHub-harsh00988-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/22538916"><img src="https://img.shields.io/badge/Stack%20Overflow-22538916-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+<a href="mailto:goyalharsh300@gmail.com"><img src="https://img.shields.io/badge/Email-goyalharsh300%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-- 🌱 I’m currently learning **Cutting Edge DL Algorithms**
+<img src="https://komarev.com/ghpvc/?username=harsh00988&label=Profile%20Views&color=2c5364&style=flat-square" alt="profile views"/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Harsh00988](https://github.com/Harsh00988)
+</div>
 
-- 💬 Ask me about **C, Python (OpenCV, ML, DL, NLP), Java, Tailwind**
+<br/>
 
-- 📫 How to reach me **goyalharsh300@gmail.com**
+## About Me
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!Aj6QidbM-MgYrSFjXF7jU0dJ9lZO?e=lG7Ax7](https://1drv.ms/b/s!Aj6QidbM-MgYrSFjXF7jU0dJ9lZO?e=lG7Ax7)
+I'm a **Machine Learning Engineer** at **Suhora Technologies**, Hyderabad, building AI-powered maritime intelligence and geospatial defense platforms. I specialize in **Computer Vision, Geospatial AI, Deep Learning, NLP, and LLMs**, and I love turning satellite imagery and billions of noisy data points into systems that actually make decisions easier.
 
-- ⚡ Fun fact **I am a state-level cricket player. (Batsman)**
+```python
+class HarshGoyal:
+    def __init__(self):
+        self.role        = "Machine Learning Engineer @ Suhora Technologies"
+        self.focus       = ["Computer Vision", "Geospatial AI", "MLOps", "LLMs"]
+        self.education    = "B.Tech, AI & Data Science — Woxsen University (Gold Medalist)"
+        self.currently_building = "MIRKA — Defense Maritime Intelligence Platform"
+        self.fun_fact     = "State-level cricket player (Batsman) 🏏"
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harsh-goyal-b39405228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-goyal-b39405228" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22538916" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22538916" height="30" width="40" /></a>
-</p>
+    def reach_me(self):
+        return "goyalharsh300@gmail.com"
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+- 🔭 Currently building **[MIRKA](https://github.com/Harsh00988)** — a scalable maritime intelligence & defense analytics platform (~80% of the backend is mine)
+- 🛰️ Working daily with **satellite imagery, AIS data streams, and geospatial pipelines** at production scale
+- 🌱 Currently deep-diving into **cutting-edge deep learning architectures & LLM tooling**
+- 📄 Research published: *"Fake Review Detection: An Unsupervised Approach"* — Springer SIST
+- 🏆 Patent holder: *"An Improved Structure for Light Flight Equipment (Paraglider) Powered by Renewable Sources of Energy"*
+- ⚡ Fun fact: **State-level cricket player (Batsman)**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh00988&show_icons=true&locale=en&layout=compact" alt="harsh00988" /></p>
+<br/>
 
+## Work Experience
+
+<table>
+<tr>
+<td width="140" valign="top"><b>Dec 2024 – Present</b></td>
+<td>
+<b>Machine Learning Engineer</b> · Suhora Technologies Pvt. Ltd., Hyderabad<br/>
+<sub>
+• Architected the backend of <b>MIRKA</b>, a defense intelligence platform for maritime analytics<br/>
+• Built end-to-end MLOps pipelines for <b>Ship & Oil Spill Detection</b> (PyTorch, MMDetection, MMRotate) — 90%+ accuracy on high-res imagery, 75%+ on low-res<br/>
+• Optimized satellite imagery inference to under <b>3 minutes/image</b><br/>
+• Built AIS anomaly detection & trajectory prediction engines processing <b>billions of records</b><br/>
+• Shipped an automated Sentinel imagery pipeline at 75%+ target detection accuracy<br/>
+• Built scalable microservices with FastAPI, Docker, Kubernetes & CI/CD for production and <b>air-gapped defense environments</b><br/>
+• Managed AWS geospatial infrastructure (S3, Deep Glacier) for large-scale imagery archival
+</sub>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Mar 2024 – Aug 2024</b></td>
+<td>
+<b>Data Scientist Intern</b> · Suhora Technologies Pvt. Ltd., Hyderabad<br/>
+<sub>
+• Automated geospatial workflows (Ortho-Rectification, Amplitude Change Detection)<br/>
+• Built a real-time AIS streaming pipeline into <b>ClickHouseDB</b><br/>
+• Created the <b>first QGIS plugin</b> integrating ClickHouseDB — 60+ global downloads
+</sub>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Apr 2023 – Jul 2023</b></td>
+<td>
+<b>Machine Learning Intern</b> · AI Research Center, Woxsen University<br/>
+<sub>
+• Built an obstacle detection algorithm for autonomous robot <b>"DISHA"</b><br/>
+• Designed a real-time control & monitoring UI for robot navigation
+</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ MIRKA Defense Intelligence Platform
+Backend infrastructure (~80%) for a maritime defense platform — AIS visualization, playback systems, analytical dashboards, campaign management & multi-geometry workflows, deployed in air-gapped environments.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌊 AIS Anomaly Detection & Prediction Engine
+Physics-informed deep learning models for vessel trajectory prediction, AIS interpolation, and anomaly detection — reconstructing missing AIS parameters (lat, lon, speed, heading) at scale.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚢 Automated Satellite Ship Detection System
+Always-on ship detection platform on open-source satellite imagery, with automated MLOps, TiTiler-based COG tiling, and interactive re-annotation & analytics.
+
+</td>
+<td width="50%" valign="top">
+
+### 🗺️ ClickHouse Connector — QGIS Plugin
+The first experimental QGIS plugin integrating ClickHouseDB for fast querying and rendering of large-scale spatial datasets — 60+ downloads worldwide.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 [Fake Review Detection](https://github.com/Harsh00988/fake-review-detection)
+Unsupervised approach to detecting fake reviews — published as a research paper in Springer SIST.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Autonomous Robot "DISHA"
+Obstacle detection algorithm and a real-time control & monitoring UI built during my ML internship at Woxsen's AI Research Center.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+
+**ML / AI**
+<br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/MMDetection-3776AB?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+**Backend & Cloud**
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+**Databases**
+<br/>
+<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+**Geospatial**
+<br/>
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+<img src="https://img.shields.io/badge/GDAL-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeoServer-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+**Web & Tools**
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</div>
+
+<br/>
+
+## Awards & Achievements
+
+- 🥇 **Gold Medalist**, Engineering Batch — Woxsen University (B.Tech, AI & Data Science)
+- 📜 **Patent** — *"An Improved Structure for Light Flight Equipment (Paraglider) Powered by Renewable Sources of Energy"* (May 2023)
+- 📄 **Research Paper** — *"Fake Review Detection: An Unsupervised Approach"*, accepted in Springer SIST
+- 🏆 **1st Place** — Hacknovation, TechFiesta 2023, VBIT College, Hyderabad
+- 🚀 **Galactic Problem Solver** — NASA Space Apps Challenge 2023
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=harsh00988&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh00988&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh00988&theme=tokyonight&hide_border=true" width="70%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+## Let's Connect
+
+Reach out for collaborations on **Computer Vision, Geospatial AI, or MLOps** — always happy to talk shop (or cricket 🏏).
+
+<a href="mailto:goyalharsh300@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/harsh-goyal-b39405228"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
